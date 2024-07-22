@@ -1,0 +1,18 @@
+/* styles.css */
+body {
+    background-color: #A9DFBF;
+}
+
+header, .css-18e3th9, .css-1d391kg, .css-1d391kg p, .css-1d391kg h1, .css-1d391kg h2, .css-1d391kg h3, .css-1d391kg h4, .css-1d391kg h5, .css-1d391kg h6 {
+    background-color: #F0FFF4 !important;
+    color: #333 !important;
+}
+
+.sidebar .sidebar-content {
+    background-color: #A9DFBF;
+    color: #333;
+}
+
+.sidebar .sidebar-content a {
+    color: #333;
+}

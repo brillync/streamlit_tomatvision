@@ -1,0 +1,6 @@
+bcrypt
+streamlit
+Pillow
+numpy
+tensorflow
+opencv-python-headless
